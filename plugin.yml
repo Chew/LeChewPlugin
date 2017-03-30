@@ -4,7 +4,7 @@ version: 0.1 ALPHA
 author: ChewLeKitten
 description: Tutorial Plugin
 commands:
-  mycommand:
+  lcp:
     description: An example command
     usage: /lcp
     permission: LCP.base
