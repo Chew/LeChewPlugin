@@ -1,0 +1,11 @@
+main: pw.chew.LeChewPlugin.Main
+name: LeChewPlugin
+version: 0.1 ALPHA
+author: ChewLeKitten
+description: Tutorial Plugin
+commands:
+  mycommand:
+    description: An example command
+    usage: /lcp
+    permission: LCP.base
+    permission-message: Woah. NO PERMISSION
