@@ -16,5 +16,13 @@ Command | Permission
 Downloads
 -------
 
-~~Latest Stable~~ | ~~Latest Beta~~ | [Latest Alpha Build](http://atominik.com/ME)
+~~Latest Stable~~ | ~~Latest Beta~~ | [Latest Alpha Build](http://atominik.com/NG)
 ------|----|----
+
+
+Previous Versions
+------------
+
+Stable | Beta | Alpha
+----|----|----
+ | | | [Build 1](http://atominik.com/ME)
