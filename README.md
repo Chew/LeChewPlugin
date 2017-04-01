@@ -4,7 +4,7 @@ A Minecraft plugin that almost exists!
 
 I will continue to add things as I code them! I am learning Java!
 
-I will NOT keep the releases updated until it is a working plugin!
+I will NOT keep the GitHub releases updated until it is a working plugin!
 
 Commands & Permissions
 -------
@@ -16,5 +16,5 @@ Command | Permission
 Downloads
 -------
 
-~~Latest Stable~~ | ~~Latest Beta~~ | [Latest Alpha Build](http://url.chew.pw/1)
+~~Latest Stable~~ | ~~Latest Beta~~ | [Latest Alpha Build](http://atominik.com/ME)
 ------|----|----
