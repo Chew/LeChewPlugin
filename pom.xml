@@ -3,7 +3,7 @@
     <groupId>pw.chew.LeChewPlugin</groupId>
 	<artifactId>LeChewPlugin</artifactId>
 	<version>1.0.0<!--  -Dev-${BUILD_NUMBER}--></version>
-	<name>CraftingPlusReloaded</name>
+	<name>LeChewPlugin</name>
 
 <repositories>
     <repository>
