@@ -20,9 +20,11 @@ Downloads
 ------|----|----
 
 
-Previous Versions
+All Versions
 ------------
 
-Stable | Beta | Alpha
-----|----|----
- | | | [Build 1](http://atominik.com/ME)
+Type | Release Name | Download Link
+-----|-------------|---------
+Alpha | 1.0 Build 2 | [Download](http://atominik.com/NG)
+Alpha | 1.0 Build 1 | [Download](http://atominik.com/ME)
+
