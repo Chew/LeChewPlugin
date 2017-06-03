@@ -1,5 +1,7 @@
 # LeChewPlugin
 
+<a href="https://www.irccloud.com/invite?channel=%23LeChewPlugin&amp;hostname=irc.esper.net&amp;port=6697&amp;ssl=1" target="_blank"><img src="https://img.shields.io/badge/IRC-%23LeChewPlugin-1e72ff.svg?style=flat"  height="20"></a>
+
 A Minecraft plugin that almost exists!
 
 I will continue to add things as I code them! I am learning Java!
