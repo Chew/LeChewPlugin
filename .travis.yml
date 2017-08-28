@@ -1,6 +1,7 @@
 language: java
-
-before_install:
-  - sed -i.bak -e 's|https://nexus.codehaus.org/snapshots/|https://oss.sonatype.org/content/repositories/codehaus-snapshots/|g' ~/.m2/settings.xml
-
-script: mvn test -B
+jdk:
+  - oraclejdk7
+  - openjdk7
+  - openjdk6
+script: mvn compile test
+install: true
